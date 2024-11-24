@@ -1,0 +1,1 @@
+alert('hallo welcome to my website - lelah itu pasti tapi nyerah bukan solusi :)')
